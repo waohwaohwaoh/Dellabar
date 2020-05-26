@@ -1,0 +1,5 @@
+export * from './Main/MainView'
+export * from './Basket/BasketView'
+export * from './Cabinet/CabinetView'
+export * from './Notifications/NotificationsView'
+export * from './Favorites/FavoritesView'
